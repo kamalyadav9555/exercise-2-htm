@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>excercise 2 harry bhau</title>
+    <style>
+        h1{
+            text-align: center;
+            text-decoration:underline
+            rgb(79, 31, 48);
+            text-overflow: initial;
+            
+        }
+    </style>
+    <h1>excercise 2 </h1>
+</head>
+
+<body>
+    <h1>
+        first paragraph
+    </h1>
+    <div class="container">
+        <p style="background-color: yellow; color: red; padding: 10px;">Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Expedita explicabo consectetur dicta fuga ea at vitae suscipit, repellendus illum deleniti
+            laboriosam ipsa distinctio.</p>
+        <h1>Second paragraph</h1>
+        <p style="background-color: blue; color: white; padding: 10px;">Lorem ipsum dolor sit amet, consectetur
+            adipisicing elit. Vitae hic aliquid voluptatibus illum! Quisquam laboriosam culpa aspernatur accusamus quasi
+            asperiores provident officiis. Consectetur, id ratione quisquam deserunt, quasi rerum in delectus repellat
+            sapiente beatae assumenda voluptas harum illum praesentium eos magnam obcaecati dolorum vero ducimus.</p>
+        <h1>third paragraph</h1>
+        <p style="background-color: blue; color: white; padding: 10px;">Lorem ipsum dolor sit, amet consectetur
+            adipisicing elit. Excepturi vitae porro, aliquid obcaecati et maxime labore quae eum officiis placeat, saepe
+            doloribus mollitia aut odit ipsum! Necessitatibus facilis hic voluptate natus. Nostrum rerum repellat, saepe
+            quos dolore dolorum quasi. Numquam aspernatur atque rerum eius sequi?</p>
+
+    </div>
+    <h1>fouth paragraph</h1>
+    <div class="container">
+        <p style="background-color: yellow; color: red; padding: 10px;">Lorem ipsum dolor sit amet consectetur,
+            adipisicing elit. Quos dolor ipsa iusto, reprehenderit nihil in nemo ad, nisi eligendi similique amet odit
+            quasi doloremque laboriosam iure consectetur. Dignissimos, ullam corrupti veritatis delectus autem modi
+            architecto excepturi? Ipsa debitis totam officia commodi reiciendis corrupti, laborum molestias?</p>
+        <h1>fifth pargraph</h1>
+        </p>
+        <p style="background-color: blue; color: white; padding: 10px;">Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Soluta, iure dicta! Quidem eligendi esse mollitia, nobis sint impedit exercitationem
+            nostrum architecto. Necessitatibus culpa quia error eligendi assumenda voluptatem, laborum, magnam incidunt
+            et, fuga ducimus sequi quod id eum reprehenderit. Voluptatum, perspiciatis ipsum? Aspernatur, laboriosam
+            aut.</p>
+        <h1> harry bhai thankku ❤️❤️</h1>
+        <p style="background-color: blue; color: white; padding: 10px;"> ❤️You've been an invaluable mentor. Thanks for
+            sharing your knowledge with us, Harry Bhai❤️"</p>
+    </div>
+</body>
+
+</html>
